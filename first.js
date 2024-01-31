@@ -1,0 +1,1 @@
+const emran = 45 ;
